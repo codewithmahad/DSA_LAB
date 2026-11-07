@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="130" viewBox="0 0 216 130" role="img" aria-labelledby="title desc">
+<title id="title">Queue · first in, first out</title>
+<desc id="desc">Values 1, 2, and 3 in a queue. Value 1 leaves from the front on the left, and new values enter at the rear on the right.</desc>
+<g fill="none" stroke="#b8b8b8" stroke-width="2.2" stroke-linecap="round"><path d="M35 27h145M35 82h145"/></g>
+<path d="M43 43l8-6h32l-8 6Z" fill="#ffc46b" stroke="#d38613" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M75 43l8-6v25l-8 6Z" fill="#ce7900" stroke="#d38613" stroke-width="1.3" stroke-linejoin="round"/>
+<rect x="43" y="43" width="32" height="25" rx="2" fill="#ffa116" stroke="#d38613" stroke-width="1.3"/>
+<text x="59" y="60.5" text-anchor="middle" font-family="Consolas,monospace" font-size="14" font-weight="700" fill="#242424">1</text>
+<path d="M87 43l8-6h32l-8 6Z" fill="#fafafa" stroke="#b8b8b8" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M119 43l8-6v25l-8 6Z" fill="#d4d4d4" stroke="#b8b8b8" stroke-width="1.3" stroke-linejoin="round"/>
+<rect x="87" y="43" width="32" height="25" rx="2" fill="#fff" stroke="#b8b8b8" stroke-width="1.3"/>
+<text x="103" y="60.5" text-anchor="middle" font-family="Consolas,monospace" font-size="14" font-weight="700" fill="#303030">2</text>
+<path d="M131 43l8-6h32l-8 6Z" fill="#fafafa" stroke="#b8b8b8" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M163 43l8-6v25l-8 6Z" fill="#d4d4d4" stroke="#b8b8b8" stroke-width="1.3" stroke-linejoin="round"/>
+<rect x="131" y="43" width="32" height="25" rx="2" fill="#fff" stroke="#b8b8b8" stroke-width="1.3"/>
+<text x="147" y="60.5" text-anchor="middle" font-family="Consolas,monospace" font-size="14" font-weight="700" fill="#303030">3</text>
+<g fill="none" stroke="#ffa116" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><path d="M30 56H7m5-5-5 5 5 5M208 56h-24m5-5-5 5 5 5"/></g>
+<g font-family="Consolas,monospace" font-size="9" fill="#717171" text-anchor="middle"><text x="59" y="100">front</text><text x="147" y="100">rear</text></g>
+<text x="108" y="123" text-anchor="middle" font-family="Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#717171">FIFO</text>
+</svg>

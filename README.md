@@ -1,28 +1,32 @@
 <h1 id="top">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/readme/tree-dark.svg">
-    <img src="assets/readme/tree-light.svg" align="right" width="22%" alt="A binary tree numbered in breadth-first order, one level at a time.">
+    <img src="assets/readme/tree-light.svg" align="right" width="30%" alt="A binary search tree with the path from 8 through 4 to 6 highlighted in orange.">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/readme/title-dark.svg">
-    <img src="assets/readme/title-light.svg" width="65%" height="52" alt="DSA_LAB">
+    <img src="assets/readme/title-light.svg" width="60%" height="60" alt="DSA_LAB">
   </picture>
 </h1>
 
 **Data structures, algorithms, and problem solving in Java.**
 
-I keep my DSA implementations and practice solutions here as part of my Java backend learning. The useful details stay with the code: why an approach works, what it costs, and where it can fail.
+I keep my DSA implementations and practice solutions here as part of my Java backend learning. I want to get better at breaking down unfamiliar problems and choosing data structures that fit the constraints. The code and explanations give me a reference for revision and technical interviews.
 
 <p>
   <a href="#learning-map">Learning&nbsp;map</a> &nbsp;·&nbsp;
-  <a href="#strivers-a2z">Striver’s&nbsp;A2Z</a> &nbsp;·&nbsp;
   <a href="#learning-and-practice">Learning&nbsp;&amp;&nbsp;practice</a> &nbsp;·&nbsp;
   <a href="#practice-profiles">Profiles</a>
 </p>
 
 <h2 id="learning-map">DSA learning map</h2>
 
-Foundations and common patterns first, then trees, graphs, and dynamic programming. Maths and bit operations support the earlier topics; advanced string techniques come later.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/stack-dark.svg">
+  <img src="assets/readme/stack-light.svg" align="right" width="14%" alt="A stack with push and pop at the top: last in, first out.">
+</picture>
+
+Foundations and common patterns first, followed by trees, graphs, and dynamic programming. I’m using **[Striver’s A2Z DSA Sheet](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet)** as my main roadmap and problem source.
 
 <details>
 <summary><strong>01–05 · Foundations &amp; core patterns</strong></summary>
@@ -69,18 +73,17 @@ Foundations and common patterns first, then trees, graphs, and dynamic programmi
 
 </details>
 
-<h2 id="strivers-a2z">Striver’s A2Z</h2>
-
-I’m following **[Striver’s A2Z DSA Sheet ↗](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet)** as the main reference for topic order and practice questions, from the fundamentals through trees, graphs, and dynamic programming.
-
-The sheet provides the sequence; this repo holds my Java implementations and solutions.
-
 <h2 id="learning-and-practice">Learning &amp; practice</h2>
 
-- **[Learning](learning/)** — Data structure and algorithm implementations, with notes on the concepts behind them.
-- **[Practice](practice/)** — Java problem solutions, grouped by topic, from A2Z, LeetCode, and HackerRank.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/queue-dark.svg">
+  <img src="assets/readme/queue-light.svg" align="right" width="19%" alt="A queue with removal at the front and insertion at the rear: first in, first out.">
+</picture>
 
-Approaches, time and space complexity, and useful edge cases belong beside the code. Language behaviour and Java API experiments live in **[JAVA_LAB](https://github.com/codewithmahad/JAVA_LAB)**.
+- **[Learning](learning/)** — Data structure and algorithm implementations, with notes on the concepts behind them.
+- **[Practice](practice/)** — Java problem solutions, grouped by topic, from Striver’s A2Z, LeetCode, and HackerRank.
+
+The focus is on choosing an approach, explaining why it works, and comparing its time and space costs with alternatives. Useful edge cases and mistakes stay with the code. Java language and API experiments live in **[JAVA_LAB](https://github.com/codewithmahad/JAVA_LAB)**.
 
 <h2 id="practice-profiles">Practice profiles</h2>
 
@@ -93,7 +96,7 @@ Approaches, time and space complexity, and useful edge cases belong beside the c
 <details>
 <summary><strong>References</strong></summary>
 
-[Java collections](https://dev.java/learn/api/collections-framework/) · [Java API](https://docs.oracle.com/en/java/javase/25/docs/api/index.html) · [My DSA Blueprint](https://github.com/codewithmahad/the-ubit-hub-resources/tree/main/resources/data-structures-and-algorithms/general)
+[Java collections](https://dev.java/learn/api/collections-framework/) · [Java API](https://docs.oracle.com/en/java/javase/25/docs/api/index.html) · [My DSA Blueprint (PDF)](https://github.com/codewithmahad/the-ubit-hub-resources/blob/main/resources/data-structures-and-algorithms/general/DSA_Blueprint_Part_1_Strategy_and_Roadmap_Shaikh_Mahad.pdf)
 
 </details>
 

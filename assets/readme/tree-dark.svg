@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="228" height="204" viewBox="0 0 228 204" role="img" aria-labelledby="title desc">
-<title id="title">Breadth-first traversal</title>
-<desc id="desc">A binary tree with visit order one at the root, two and three on the next level, then four through seven.</desc>
-<path d="M27 24 196 13l11 161-169 12Z" fill="#a88bd5" opacity=".1"/>
-<rect x="20" y="20" width="186" height="168" rx="20" fill="#171b27" stroke="#6f657f" stroke-width="5"/>
-<rect x="20" y="20" width="186" height="168" rx="20" fill="#171b27" stroke="#6f657f" stroke-width="1.2"/>
-<text x="35" y="42" fill="#aaa1bb" font-family="Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.2">BFS</text>
-<g fill="none" stroke="#393448" stroke-width="1" stroke-dasharray="2 5"><path d="M34 65h158M34 104h158M34 145h158"/></g>
-<g stroke="#70677e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
-<path d="m114 67-43 37m43-37 43 37M71 104l-23 41m23-41 23 41m63-41-23 41m23-41 23 41"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="230" viewBox="0 0 330 230" role="img" aria-labelledby="title desc">
+<title id="title">Binary search tree</title>
+<desc id="desc">A balanced search tree with values 8, 4, 12, 2, 6, 10, and 14. The search path from 8 through 4 to 6 is highlighted in orange.</desc>
+<g fill="none" stroke="#616161" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="m165 38-82 70m82-70 82 70M83 108l-49 80m49-80 49 80m115-80-49 80m49-80 49 80"/>
 </g>
-<path d="m114 67-43 37m43-37 43 37" fill="none" stroke="#a88bd5" stroke-width="3" stroke-linecap="round"/>
-<g stroke="#171b27" stroke-width="4">
-<circle cx="114" cy="65" r="15" fill="#a88bd5"/>
-<circle cx="71" cy="104" r="14" fill="#58aaa3"/><circle cx="157" cy="104" r="14" fill="#58aaa3"/>
-<circle cx="48" cy="145" r="12" fill="#303644"/><circle cx="94" cy="145" r="12" fill="#303644"/><circle cx="134" cy="145" r="12" fill="#303644"/><circle cx="180" cy="145" r="12" fill="#303644"/>
+<path d="m165 38-82 70 49 80" fill="none" stroke="#ffa116" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#000" opacity=".25">
+<circle cx="165" cy="42" r="26"/><circle cx="83" cy="112" r="23"/><circle cx="247" cy="112" r="23"/>
+<circle cx="34" cy="192" r="20"/><circle cx="132" cy="192" r="20"/><circle cx="198" cy="192" r="20"/><circle cx="296" cy="192" r="20"/>
 </g>
-<g font-family="Consolas,monospace" font-size="12" font-weight="700" text-anchor="middle">
-<g fill="#171b27"><text x="114" y="69">1</text><text x="71" y="108">2</text><text x="157" y="108">3</text></g>
-<g fill="#d3c5e7"><text x="48" y="149">4</text><text x="94" y="149">5</text><text x="134" y="149">6</text><text x="180" y="149">7</text></g>
+<circle cx="165" cy="38" r="32" fill="none" stroke="#ffa116" stroke-opacity=".18" stroke-width="3"/>
+<circle cx="165" cy="38" r="25" fill="#ffa116" stroke="#ffc46b" stroke-width="1.5"/>
+<circle cx="83" cy="108" r="23" fill="#282828" stroke="#ffa116" stroke-width="2.5"/>
+<circle cx="247" cy="108" r="23" fill="#282828" stroke="#5b5b5b" stroke-width="2"/>
+<g fill="#282828" stroke="#5b5b5b" stroke-width="2"><circle cx="34" cy="188" r="20"/><circle cx="198" cy="188" r="20"/><circle cx="296" cy="188" r="20"/></g>
+<circle cx="132" cy="188" r="26" fill="none" stroke="#ffa116" stroke-opacity=".25" stroke-width="2" stroke-dasharray="3 4"/>
+<circle cx="132" cy="188" r="20" fill="#ffa116" stroke="#ffc46b" stroke-width="1.5"/>
+<g font-family="Consolas, 'Liberation Mono', monospace" font-weight="700" text-anchor="middle" font-size="19">
+<g fill="#242424"><text x="165" y="44.5">8</text><text x="132" y="194.5">6</text></g>
+<text x="83" y="114.5" fill="#ffa116">4</text>
+<g fill="#dedede"><text x="247" y="114.5">12</text><text x="34" y="194.5">2</text><text x="198" y="194.5">10</text><text x="296" y="194.5">14</text></g>
 </g>
-<path d="M88 174h41m-5-4 5 4-5 4" stroke="#58aaa3" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="193" cy="24" r="6" fill="#58aaa3" stroke="#171b27" stroke-width="3"/>
 </svg>

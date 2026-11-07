@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="70" viewBox="0 0 380 70" preserveAspectRatio="xMinYMid meet" role="img" aria-labelledby="title"><title id="title">DSA_LAB</title><text x="0" y="51" font-family="Consolas, 'Liberation Mono', monospace" font-size="56" font-weight="700" letter-spacing="-1.5"><tspan fill="#7655af">DSA</tspan><tspan fill="#252637">_LAB</tspan></text><path d="M2 64h28m0 0 8-6m-8 6 8 0" fill="none" stroke="#7655af" stroke-width="2" stroke-linecap="round"/><circle cx="44" cy="58" r="2.5" fill="#248c89"/><circle cx="44" cy="64" r="2.5" fill="#7655af"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76" preserveAspectRatio="xMinYMid meet" role="img" aria-labelledby="title">
+<title id="title">DSA_LAB</title>
+<text x="0" y="54" font-family="Consolas, 'Liberation Mono', monospace" font-size="60" font-weight="700" letter-spacing="-1.2"><tspan fill="#b96c00">DSA</tspan><tspan fill="#353535">_LAB</tspan></text>
+<path d="M2 67h29m0 0 9-6m-9 6h9" fill="none" stroke="#b96c00" stroke-width="2" stroke-linecap="round"/>
+<circle cx="46" cy="61" r="2.3" fill="#b96c00"/><circle cx="46" cy="67" r="2.3" fill="#b96c00"/>
+</svg>
