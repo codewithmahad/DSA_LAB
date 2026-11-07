@@ -8,7 +8,7 @@ The LeetCode, HackerRank, and Codolio buttons are unchanged copies of the [profi
 
 ## Shared learning links
 
-The closing section combines the learning labs and practice profiles. Its inline lab buttons follow [JAVA_LAB’s closing section](https://github.com/codewithmahad/JAVA_LAB#beyond-java-lab), with separate light and dark versions and outlined lettering. Java, SQL, and DSA use 20-pixel links; Linux appears in a smaller supporting line.
+The closing section combines the learning labs and practice profiles. Its inline lab buttons follow [JAVA_LAB’s closing section](https://github.com/codewithmahad/JAVA_LAB#beyond-java-lab), with separate light and dark versions and outlined lettering. All lab links use the same 20-pixel inline treatment. The paragraph is specific to DSA_LAB and links only to Java, SQL, and Linux; practice profiles sit directly below it.
 
 - **Java:** a matching button built from [JAVA_LAB’s coffee-cup artwork](https://github.com/codewithmahad/JAVA_LAB/blob/master/assets/logos/java-site.svg) and its outlined title. The mark retains the [Devicon Java geometry](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg), adapted to Java.com blue and orange; the blue lettering is lighter in dark mode for legibility.
 - **SQL, DSA, and Linux:** unchanged copies of JAVA_LAB’s [`lab-{sql,dsa,linux}-{light,dark}.svg` artwork](https://github.com/codewithmahad/JAVA_LAB/tree/master/assets/readme). They retain the PostgreSQL elephant, orange search tree, and original Tux with their destination labs’ colors and lettering.
@@ -17,6 +17,6 @@ The closing section combines the learning labs and practice profiles. Its inline
 
 The [Devicon MIT notice](labs/DEVICON-LICENSE.txt) is retained for the Java and PostgreSQL artwork.
 
-To reuse the same section, copy the block between `learning-labs:start` and `learning-labs:end` in the root README, the `assets/readme/labs/` folder, and the three `assets/readme/*-brand.svg` profile buttons. The wording and destinations work unchanged across the learning repositories; references above the shared block remain specific to DSA_LAB.
+To reuse the structure, keep the **How the labs fit together** heading and inline lab buttons. Write a paragraph for the host repository and link only to the other three labs. Copy the relevant `assets/readme/labs/` SVGs and their credits; the coding-profile row belongs only in DSA_LAB. The compact footer uses each repository's own artwork path and top anchor.
 
 [Back to DSA_LAB](../../README.md)
