@@ -16,7 +16,7 @@ I keep my DSA implementations and practice solutions here as part of my Java bac
 <p>
   <a href="#learning-map">Learning&nbsp;map</a> &nbsp;·&nbsp;
   <a href="#learning-and-practice">Learning&nbsp;&amp;&nbsp;practice</a> &nbsp;·&nbsp;
-  <a href="#practice-profiles">Profiles</a>
+  <a href="#backend-foundations">Labs&nbsp;&amp;&nbsp;profiles</a>
 </p>
 
 <h2 id="learning-map">DSA learning map</h2>
@@ -85,24 +85,28 @@ Foundations and common patterns first, followed by trees, graphs, and dynamic pr
 
 The focus is on choosing an approach, explaining why it works, and comparing its time and space costs with alternatives. Useful edge cases and mistakes stay with the code. Java language and API experiments live in **[JAVA_LAB](https://github.com/codewithmahad/JAVA_LAB)**.
 
-<h2 id="practice-profiles">Practice profiles</h2>
+<p><sub><strong>References:</strong> <a href="https://dev.java/learn/api/collections-framework/">Java collections</a> · <a href="https://docs.oracle.com/en/java/javase/25/docs/api/index.html">Java API</a> · <a href="https://github.com/codewithmahad/the-ubit-hub-resources/blob/main/resources/data-structures-and-algorithms/general/DSA_Blueprint_Part_1_Strategy_and_Roadmap_Shaikh_Mahad.pdf">My DSA Blueprint (PDF)</a></sub></p>
+
+<!-- learning-labs:start -->
+<h2 id="backend-foundations">Backend foundations</h2>
 
 <p>
+I keep the foundations of my Java and Spring Boot work across three labs: language concepts and APIs in&#8239;<a href="https://github.com/codewithmahad/JAVA_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/java-dark.svg"><img src="assets/readme/labs/java-light.svg" width="88" height="20" align="texttop" alt="JAVA_LAB"></picture></a>, queries and relational design in&#8239;<a href="https://github.com/codewithmahad/SQL_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/sql-dark.svg"><img src="assets/readme/labs/sql-light.svg" width="80" height="20" align="texttop" alt="SQL_LAB"></picture></a>, and data structures and problem solving in&#8239;<a href="https://github.com/codewithmahad/DSA_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/dsa-dark.svg"><img src="assets/readme/labs/dsa-light.svg" width="77" height="20" align="texttop" alt="DSA_LAB"></picture></a>.
+</p>
+
+<p><sub>Alongside these, <a href="https://github.com/codewithmahad/LINUX_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/linux-dark.svg"><img src="assets/readme/labs/linux-light.svg" width="86" height="18" align="texttop" alt="LINUX_LAB"></picture></a> holds my Linux and Bash notes for running services, reading logs, and automating tasks.</sub></p>
+
+<p>
+  <sub><strong>Practice profiles</strong></sub><br>
   <a href="https://leetcode.com/u/mahad2006/"><img src="assets/readme/leetcode-brand.svg" width="110" height="40" alt="LeetCode: my profile"></a>
   <a href="https://www.hackerrank.com/codewithmahad"><img src="assets/readme/hackerrank-brand.svg" width="126" height="40" alt="HackerRank: my profile"></a>
   <a href="https://codolio.com/profile/codewithmahad"><img src="assets/readme/codolio-brand.svg" width="104" height="40" alt="Codolio: my profile"></a>
 </p>
-
-<details>
-<summary><strong>References</strong></summary>
-
-[Java collections](https://dev.java/learn/api/collections-framework/) · [Java API](https://docs.oracle.com/en/java/javase/25/docs/api/index.html) · [My DSA Blueprint (PDF)](https://github.com/codewithmahad/the-ubit-hub-resources/blob/main/resources/data-structures-and-algorithms/general/DSA_Blueprint_Part_1_Strategy_and_Roadmap_Shaikh_Mahad.pdf)
-
-</details>
+<!-- learning-labs:end -->
 
 ---
 
 <p align="center">
   <strong>Shaikh Mahad Ud Din</strong> · Java Backend Development<br>
-  <sub><a href="https://github.com/codewithmahad/JAVA_LAB">Java Lab</a> &nbsp;·&nbsp; <a href="https://github.com/codewithmahad/SQL_LAB">SQL Lab</a> &nbsp;·&nbsp; <a href="https://github.com/codewithmahad/LINUX_LAB">Linux &amp; Bash</a> &nbsp;·&nbsp; <a href="https://shaikhmahad.vercel.app/">Portfolio</a> &nbsp;·&nbsp; <a href="assets/readme/README.md">Artwork</a> &nbsp;·&nbsp; <a href="#top">Back to top ↑</a></sub>
+  <sub><a href="https://shaikhmahad.vercel.app/">Portfolio</a> &nbsp;·&nbsp; <a href="assets/readme/README.md">Artwork</a> &nbsp;·&nbsp; <a href="#top">Back to top ↑</a></sub>
 </p>

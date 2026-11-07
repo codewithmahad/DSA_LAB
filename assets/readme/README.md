@@ -6,4 +6,17 @@ The tree highlights the search path from 8 through 4 to 6. The stack shows push 
 
 The LeetCode, HackerRank, and Codolio buttons are unchanged copies of the [profile README’s contact artwork](https://github.com/codewithmahad/codewithmahad/tree/main/assets/profile/contact). They retain the original platform graphics and lettering.
 
+## Shared learning links
+
+The closing section combines the learning labs and practice profiles. Its inline lab buttons follow [JAVA_LAB’s closing section](https://github.com/codewithmahad/JAVA_LAB#beyond-java-lab), with separate light and dark versions and outlined lettering. Java, SQL, and DSA use 20-pixel links; Linux appears in a smaller supporting line.
+
+- **Java:** a matching button built from [JAVA_LAB’s coffee-cup artwork](https://github.com/codewithmahad/JAVA_LAB/blob/master/assets/logos/java-site.svg) and its outlined title. The mark retains the [Devicon Java geometry](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg), adapted to Java.com blue and orange; the blue lettering is lighter in dark mode for legibility.
+- **SQL, DSA, and Linux:** unchanged copies of JAVA_LAB’s [`lab-{sql,dsa,linux}-{light,dark}.svg` artwork](https://github.com/codewithmahad/JAVA_LAB/tree/master/assets/readme). They retain the PostgreSQL elephant, orange search tree, and original Tux with their destination labs’ colors and lettering.
+- **PostgreSQL:** the elephant originates from [Devicon](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg).
+- **Tux:** **by Larry Ewing, created using The GIMP** — [original artwork](http://isc.tamu.edu/~lewing/linux/), [source and reuse information](https://commons.wikimedia.org/wiki/File:Tux.png).
+
+The [Devicon MIT notice](labs/DEVICON-LICENSE.txt) is retained for the Java and PostgreSQL artwork.
+
+To reuse the same section, copy the block between `learning-labs:start` and `learning-labs:end` in the root README, the `assets/readme/labs/` folder, and the three `assets/readme/*-brand.svg` profile buttons. The wording and destinations work unchanged across the learning repositories; references above the shared block remain specific to DSA_LAB.
+
 [Back to DSA_LAB](../../README.md)
