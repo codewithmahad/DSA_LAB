@@ -1,9 +1,7 @@
 # README artwork
 
-Original SVG artwork made for this repository: the algorithm desk, weekend calendar, revision cards, title lettering, and profile link cards.
+The DSA_LAB title and breadth-first tree illustration are original SVG artwork for this repository, using violet, teal, and neutral ink tones with light and dark variants. The tree’s numbers show breadth-first visit order.
 
-The palette uses muted teal, warm paper, ochre, and terracotta. The title has separate light and dark variants; the illustrations and link cards use their own paper surfaces so they remain legible in both themes.
-
-All artwork is local SVG. The profile cards use original generic symbols; LeetCode and Codolio names identify their link destinations.
+The LeetCode, HackerRank, and Codolio buttons are unchanged copies of the [profile README’s contact artwork](https://github.com/codewithmahad/codewithmahad/tree/main/assets/profile/contact). They retain the original platform graphics and lettering.
 
 [Back to DSA_LAB](../../README.md)
