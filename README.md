@@ -88,17 +88,24 @@ The focus is on choosing an approach, explaining why it works, and comparing its
 <p><sub><strong>References:</strong> <a href="https://dev.java/learn/api/collections-framework/">Java collections</a> · <a href="https://docs.oracle.com/en/java/javase/25/docs/api/index.html">Java API</a> · <a href="https://github.com/codewithmahad/the-ubit-hub-resources/blob/main/resources/data-structures-and-algorithms/general/DSA_Blueprint_Part_1_Strategy_and_Roadmap_Shaikh_Mahad.pdf">My DSA Blueprint (PDF)</a></sub></p>
 
 <!-- learning-labs:start -->
-<p id="connected-labs" role="heading" aria-level="2"><a id="backend-foundations"></a><strong>How the labs fit together</strong></p>
+<h2 id="connected-labs"><a id="backend-foundations"></a>How the labs fit together</h2>
 
 <p>
-I use this lab to practise problem solving in Java, from choosing data structures to reasoning about time and space complexity.
-My Java language experiments live in&#8239;<a href="https://github.com/codewithmahad/JAVA_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/java-dark.svg"><img src="assets/readme/labs/java-light.svg" width="88" height="20" align="texttop" alt="JAVA_LAB"></picture></a>, database work in&#8239;<a href="https://github.com/codewithmahad/SQL_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/sql-dark.svg"><img src="assets/readme/labs/sql-light.svg" width="80" height="20" align="texttop" alt="SQL_LAB"></picture></a>, and Linux and Bash coursework in&#8239;<a href="https://github.com/codewithmahad/LINUX_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/linux-dark.svg"><img src="assets/readme/labs/linux-light.svg" width="96" height="20" align="texttop" alt="LINUX_LAB"></picture></a>.
+I use this lab to practise problem solving in Java: choosing data structures, comparing approaches, and understanding time and space costs. The other labs hold my Java language experiments, SQL practice, and Linux and Bash coursework.
 </p>
 
 <p>
-  <a href="https://leetcode.com/u/mahad2006/"><img src="assets/readme/leetcode-brand.svg" width="83" height="30" alt="LeetCode: my profile"></a>
-  <a href="https://www.hackerrank.com/codewithmahad"><img src="assets/readme/hackerrank-brand.svg" width="95" height="30" alt="HackerRank: my profile"></a>
-  <a href="https://codolio.com/profile/codewithmahad"><img src="assets/readme/codolio-brand.svg" width="78" height="30" alt="Codolio: my profile"></a>
+  <a href="https://github.com/codewithmahad/JAVA_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/java-dark.svg"><img src="assets/readme/labs/java-light.svg" width="124" height="40" vspace="2" alt="JAVA_LAB"></picture></a>
+  <a href="https://github.com/codewithmahad/SQL_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/sql-dark.svg"><img src="assets/readme/labs/sql-light.svg" width="120" height="40" vspace="2" alt="SQL_LAB"></picture></a>
+  <a href="https://github.com/codewithmahad/LINUX_LAB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/labs/linux-dark.svg"><img src="assets/readme/labs/linux-light.svg" width="128" height="40" vspace="2" alt="LINUX_LAB"></picture></a>
+</p>
+
+<p>More of my problem-solving practice is on these profiles.</p>
+
+<p>
+  <a href="https://leetcode.com/u/mahad2006/"><img src="assets/readme/leetcode-brand.svg" width="124" height="40" alt="LeetCode: my profile"></a>
+  <a href="https://www.hackerrank.com/codewithmahad"><img src="assets/readme/hackerrank-brand.svg" width="140" height="40" alt="HackerRank: my profile"></a>
+  <a href="https://codolio.com/profile/codewithmahad"><img src="assets/readme/codolio-brand.svg" width="120" height="40" alt="Codolio: my profile"></a>
 </p>
 <!-- learning-labs:end -->
 

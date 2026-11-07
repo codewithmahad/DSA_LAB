@@ -4,19 +4,22 @@ The DSA_LAB title, search tree, stack, and queue are original SVG artwork for th
 
 The tree highlights the search path from 8 through 4 to 6. The stack shows push and pop at the same end; the queue shows removal at the front and insertion at the rear.
 
-The LeetCode, HackerRank, and Codolio buttons are unchanged copies of the [profile README’s contact artwork](https://github.com/codewithmahad/codewithmahad/tree/main/assets/profile/contact). They retain the original platform graphics and lettering.
+The LeetCode, HackerRank, and Codolio buttons reuse the [profile README’s contact artwork](https://github.com/codewithmahad/codewithmahad/tree/main/assets/profile/contact). They retain the original platform graphics and lettering.
 
 ## Shared learning links
 
-The closing section combines the learning labs and practice profiles. Its inline lab buttons follow [JAVA_LAB’s closing section](https://github.com/codewithmahad/JAVA_LAB#beyond-java-lab), with separate light and dark versions and outlined lettering. All lab links use the same 20-pixel inline treatment. The paragraph is specific to DSA_LAB and links only to Java, SQL, and Linux; practice profiles sit directly below it.
+The closing section has a paragraph specific to the host repository, a row of links to the other three labs, a short practice-profile line, and the LeetCode, HackerRank, and Codolio buttons. The lab and profile buttons are 40 pixels high.
 
-- **Java:** a matching button built from [JAVA_LAB’s coffee-cup artwork](https://github.com/codewithmahad/JAVA_LAB/blob/master/assets/logos/java-site.svg) and its outlined title. The mark retains the [Devicon Java geometry](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg), adapted to Java.com blue and orange; the blue lettering is lighter in dark mode for legibility.
-- **SQL, DSA, and Linux:** unchanged copies of JAVA_LAB’s [`lab-{sql,dsa,linux}-{light,dark}.svg` artwork](https://github.com/codewithmahad/JAVA_LAB/tree/master/assets/readme). They retain the PostgreSQL elephant, orange search tree, and original Tux with their destination labs’ colors and lettering.
-- **PostgreSQL:** the elephant originates from [Devicon](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg).
-- **Tux:** **by Larry Ewing, created using The GIMP** — [original artwork](http://isc.tamu.edu/~lewing/linux/), [source and reuse information](https://commons.wikimedia.org/wiki/File:Tux.png).
+The lab buttons use one solid pale fill each: Java white, DSA amber, PostgreSQL blue, and Linux silver. Their Segoe UI Semibold labels are converted to paths and vertically centered by their actual glyph bounds. Icon and label groups are centered together. The paired light/dark filenames use the same solid palette so the links stay consistent in both themes.
 
-The [Devicon MIT notice](labs/DEVICON-LICENSE.txt) is retained for the Java and PostgreSQL artwork.
+- **Java:** the Devicon coffee-cup geometry, adapted to Java.com blue and orange.
+- **DSA:** an original orange search-tree symbol.
+- **SQL:** the original Devicon PostgreSQL elephant.
+- **Linux:** unchanged **Tux, by Larry Ewing, created using The GIMP**. [Original artwork and reuse terms](http://isc.tamu.edu/~lewing/linux/) · [LINUX_LAB source notes](https://github.com/codewithmahad/LINUX_LAB/blob/main/assets/README.md#tux).
 
-To reuse the structure, keep the **How the labs fit together** label and inline lab buttons. Write a paragraph for the host repository and link only to the other three labs. Copy the relevant `assets/readme/labs/` SVGs and their credits; the coding-profile row is shared across all four learning labs. The compact footer uses each repository's own artwork path and top anchor.
+The [Devicon MIT notice](labs/DEVICON-LICENSE.txt) is retained for the Java and PostgreSQL artwork. The platform buttons retain the original graphics and lettering credited above.
 
 [Back to DSA_LAB](../../README.md)
+
+
+The connected-labs title is a normal section heading. Lab buttons use black text on light fills; Java has a white background and a larger coffee-cup mark, SQL uses a stronger blue, and DSA has black branches and secondary-node outlines around orange centers. The social-button content is enlarged by 15% inside the same 40-pixel height, with wider backgrounds to preserve its proportions.
