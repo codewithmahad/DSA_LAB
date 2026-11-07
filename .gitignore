@@ -1,0 +1,17 @@
+# Java and editor output
+*.class
+*.iml
+.idea/
+.vscode/
+out/
+target/
+hs_err_pid*
+replay_pid*
+
+# Local scratch work and README previews
+/.local/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
