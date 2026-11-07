@@ -88,7 +88,7 @@ The focus is on choosing an approach, explaining why it works, and comparing its
 <p><sub><strong>References:</strong> <a href="https://dev.java/learn/api/collections-framework/">Java collections</a> · <a href="https://docs.oracle.com/en/java/javase/25/docs/api/index.html">Java API</a> · <a href="https://github.com/codewithmahad/the-ubit-hub-resources/blob/main/resources/data-structures-and-algorithms/general/DSA_Blueprint_Part_1_Strategy_and_Roadmap_Shaikh_Mahad.pdf">My DSA Blueprint (PDF)</a></sub></p>
 
 <!-- learning-labs:start -->
-<h2 id="connected-labs"><a id="backend-foundations"></a>How the labs fit together</h2>
+<p id="connected-labs" role="heading" aria-level="2"><a id="backend-foundations"></a><strong>How the labs fit together</strong></p>
 
 <p>
 I use this lab to practise problem solving in Java, from choosing data structures to reasoning about time and space complexity.
@@ -96,9 +96,9 @@ My Java language experiments live in&#8239;<a href="https://github.com/codewithm
 </p>
 
 <p>
-  <a href="https://leetcode.com/u/mahad2006/"><img src="assets/readme/leetcode-brand.svg" width="110" height="40" alt="LeetCode: my profile"></a>
-  <a href="https://www.hackerrank.com/codewithmahad"><img src="assets/readme/hackerrank-brand.svg" width="126" height="40" alt="HackerRank: my profile"></a>
-  <a href="https://codolio.com/profile/codewithmahad"><img src="assets/readme/codolio-brand.svg" width="104" height="40" alt="Codolio: my profile"></a>
+  <a href="https://leetcode.com/u/mahad2006/"><img src="assets/readme/leetcode-brand.svg" width="83" height="30" alt="LeetCode: my profile"></a>
+  <a href="https://www.hackerrank.com/codewithmahad"><img src="assets/readme/hackerrank-brand.svg" width="95" height="30" alt="HackerRank: my profile"></a>
+  <a href="https://codolio.com/profile/codewithmahad"><img src="assets/readme/codolio-brand.svg" width="78" height="30" alt="Codolio: my profile"></a>
 </p>
 <!-- learning-labs:end -->
 

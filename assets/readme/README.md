@@ -17,6 +17,6 @@ The closing section combines the learning labs and practice profiles. Its inline
 
 The [Devicon MIT notice](labs/DEVICON-LICENSE.txt) is retained for the Java and PostgreSQL artwork.
 
-To reuse the structure, keep the **How the labs fit together** heading and inline lab buttons. Write a paragraph for the host repository and link only to the other three labs. Copy the relevant `assets/readme/labs/` SVGs and their credits; the coding-profile row belongs only in DSA_LAB. The compact footer uses each repository's own artwork path and top anchor.
+To reuse the structure, keep the **How the labs fit together** label and inline lab buttons. Write a paragraph for the host repository and link only to the other three labs. Copy the relevant `assets/readme/labs/` SVGs and their credits; the coding-profile row is shared across all four learning labs. The compact footer uses each repository's own artwork path and top anchor.
 
 [Back to DSA_LAB](../../README.md)
